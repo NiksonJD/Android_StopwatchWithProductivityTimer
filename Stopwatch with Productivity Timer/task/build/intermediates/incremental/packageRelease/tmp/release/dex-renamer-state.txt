@@ -1,0 +1,4 @@
+#Sat Jun 10 03:27:02 MSK 2023
+base.0=D\:\\AndroidApp\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

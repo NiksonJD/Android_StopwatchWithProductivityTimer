@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Gradle\caches\transforms-3\94dd67d444bb14f39ff4c431deb78280\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Gradle\caches\transforms-3\c2521790aa9f67c4a9d707a27a07125a\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Gradle\caches\transforms-3\9f49a6066f02098c62f49d067c986589\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Gradle\caches\transforms-3\2afbf635db434e4b5a8a9bd4cf4b58be\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Gradle\caches\transforms-3\6e1f52b05424e8d0056509e0486db5ea\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\de87fc28417d566330ab51e0777ca964\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Gradle\caches\transforms-3\8fb8c3f9ad0916daf54d1d728002e246\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Gradle\caches\transforms-3\33eb6359dc575d27cddac5c77665be49\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Gradle\caches\transforms-3\2417cd9cede451465ec09d4aa4e691a2\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Gradle\caches\transforms-3\f9ba89e49f79c47921a67347be4f0ab2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\0af0e631d05891248f8ffdad94fe2a81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\ee953a0f27c49b4f167c9d1d8c66c7f3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\ac22ddc2f0316c5f3f2e0cabf16525ce\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\507babc7d58cbb503e254977d8bb5c9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\ad71f78d97b67d9ef6e085fb9c7d19e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\7f88de030d317ff7a2177d8b8cd89390\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\752e80f6a8140f492ebf6d903d76e017\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\22fe4da5bfbde14ce89f17f10cc1d5be\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\58db47112732e2657a058014de06fdd3\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Gradle\caches\transforms-3\db8ced0bd4bb83ab7d36974bee50ae99\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\fce44223055e69bf1374b465fc79698e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\8fe223eeb90dfc501632c893ef8bf304\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\770bd52ac1845cce2a5726f81ae23783\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\a7ec9ae5d8c25e0e4dc53d2a3fd01743\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e4c5c7814c3435996efb7195f4131995\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\c53f61945a43275817e43143b61d6e18\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\499f61b427ea67d418385c45d3d2a6f5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\bc0c628204120f31ce7b59cf1322b07c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\cc2399cf3e88170611ce33c1cde9c827\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\121cd9020c1d9b4b288c301748e6a0c8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\dd1c61f805e32cd3675992ba07330312\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\d0d77203669acba0227d5909ee0680ac\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\2afce6b162b1b46d578b1ecbde703b24\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\953f7b6c01a599e525981baae424bbb3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\95b5f7e3268d623b532ca3a93f74659f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\caches\transforms-3\730ae11042a50af2f5c71972d4083cb9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:5:3-75
+	android:name
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:5:20-72
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:6:3-83
+	android:name
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:6:20-80
+application
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:8:3-22:17
+MERGED from [com.google.android.material:material:1.4.0] C:\Gradle\caches\transforms-3\9f49a6066f02098c62f49d067c986589\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Gradle\caches\transforms-3\9f49a6066f02098c62f49d067c986589\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Gradle\caches\transforms-3\2afbf635db434e4b5a8a9bd4cf4b58be\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Gradle\caches\transforms-3\2afbf635db434e4b5a8a9bd4cf4b58be\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\499f61b427ea67d418385c45d3d2a6f5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\499f61b427ea67d418385c45d3d2a6f5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:13:7-33
+	android:label
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:9:7-33
+	android:theme
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:14:7-38
+activity#org.hyperskill.stopwatch.MainActivity
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:15:5-21:16
+	android:name
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:15:15-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Gradle\caches\transforms-3\94dd67d444bb14f39ff4c431deb78280\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Gradle\caches\transforms-3\94dd67d444bb14f39ff4c431deb78280\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Gradle\caches\transforms-3\c2521790aa9f67c4a9d707a27a07125a\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Gradle\caches\transforms-3\c2521790aa9f67c4a9d707a27a07125a\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Gradle\caches\transforms-3\9f49a6066f02098c62f49d067c986589\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Gradle\caches\transforms-3\9f49a6066f02098c62f49d067c986589\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Gradle\caches\transforms-3\2afbf635db434e4b5a8a9bd4cf4b58be\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Gradle\caches\transforms-3\2afbf635db434e4b5a8a9bd4cf4b58be\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Gradle\caches\transforms-3\6e1f52b05424e8d0056509e0486db5ea\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Gradle\caches\transforms-3\6e1f52b05424e8d0056509e0486db5ea\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\de87fc28417d566330ab51e0777ca964\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\de87fc28417d566330ab51e0777ca964\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Gradle\caches\transforms-3\8fb8c3f9ad0916daf54d1d728002e246\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Gradle\caches\transforms-3\8fb8c3f9ad0916daf54d1d728002e246\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Gradle\caches\transforms-3\33eb6359dc575d27cddac5c77665be49\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Gradle\caches\transforms-3\33eb6359dc575d27cddac5c77665be49\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Gradle\caches\transforms-3\2417cd9cede451465ec09d4aa4e691a2\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Gradle\caches\transforms-3\2417cd9cede451465ec09d4aa4e691a2\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Gradle\caches\transforms-3\f9ba89e49f79c47921a67347be4f0ab2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Gradle\caches\transforms-3\f9ba89e49f79c47921a67347be4f0ab2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\0af0e631d05891248f8ffdad94fe2a81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\0af0e631d05891248f8ffdad94fe2a81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\ee953a0f27c49b4f167c9d1d8c66c7f3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\ee953a0f27c49b4f167c9d1d8c66c7f3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\ac22ddc2f0316c5f3f2e0cabf16525ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\ac22ddc2f0316c5f3f2e0cabf16525ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\507babc7d58cbb503e254977d8bb5c9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\507babc7d58cbb503e254977d8bb5c9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\ad71f78d97b67d9ef6e085fb9c7d19e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\ad71f78d97b67d9ef6e085fb9c7d19e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\7f88de030d317ff7a2177d8b8cd89390\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\7f88de030d317ff7a2177d8b8cd89390\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\752e80f6a8140f492ebf6d903d76e017\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\752e80f6a8140f492ebf6d903d76e017\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\22fe4da5bfbde14ce89f17f10cc1d5be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\22fe4da5bfbde14ce89f17f10cc1d5be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\58db47112732e2657a058014de06fdd3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\58db47112732e2657a058014de06fdd3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Gradle\caches\transforms-3\db8ced0bd4bb83ab7d36974bee50ae99\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Gradle\caches\transforms-3\db8ced0bd4bb83ab7d36974bee50ae99\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Gradle\caches\transforms-3\e57074624883252b20abb685d6cf6140\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\fce44223055e69bf1374b465fc79698e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\fce44223055e69bf1374b465fc79698e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\8fe223eeb90dfc501632c893ef8bf304\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\8fe223eeb90dfc501632c893ef8bf304\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\770bd52ac1845cce2a5726f81ae23783\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\770bd52ac1845cce2a5726f81ae23783\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\a7ec9ae5d8c25e0e4dc53d2a3fd01743\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\a7ec9ae5d8c25e0e4dc53d2a3fd01743\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e4c5c7814c3435996efb7195f4131995\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e4c5c7814c3435996efb7195f4131995\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\c53f61945a43275817e43143b61d6e18\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\c53f61945a43275817e43143b61d6e18\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\499f61b427ea67d418385c45d3d2a6f5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\499f61b427ea67d418385c45d3d2a6f5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\bc0c628204120f31ce7b59cf1322b07c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\bc0c628204120f31ce7b59cf1322b07c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\cc2399cf3e88170611ce33c1cde9c827\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\cc2399cf3e88170611ce33c1cde9c827\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\121cd9020c1d9b4b288c301748e6a0c8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\121cd9020c1d9b4b288c301748e6a0c8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\dd1c61f805e32cd3675992ba07330312\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\dd1c61f805e32cd3675992ba07330312\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\d0d77203669acba0227d5909ee0680ac\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\d0d77203669acba0227d5909ee0680ac\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\2afce6b162b1b46d578b1ecbde703b24\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\2afce6b162b1b46d578b1ecbde703b24\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\953f7b6c01a599e525981baae424bbb3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\953f7b6c01a599e525981baae424bbb3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\95b5f7e3268d623b532ca3a93f74659f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\95b5f7e3268d623b532ca3a93f74659f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\caches\transforms-3\730ae11042a50af2f5c71972d4083cb9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Gradle\caches\transforms-3\730ae11042a50af2f5c71972d4083cb9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
